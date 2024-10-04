@@ -212,6 +212,8 @@ Your server is up and running on your custom domain with SSL! Congrats!
 
 ![fin](images/fin.png)
 
+
+
 ---
 
 Feel free to delete the firewall rule on port 3000 we created earlier. Do not hesitate for any PR's or issues. Happy hosting!
