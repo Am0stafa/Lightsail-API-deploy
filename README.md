@@ -2,6 +2,7 @@
 
 ---
 
+
 ### Steps below if you prefer images
 
 Create a Lightsail instance from the **[AWS dashboard](https://lightsail.aws.amazon.com/ls/webapp/home/instances)**
