@@ -1,7 +1,5 @@
 # Deploy a Node / Express app on AWS Lightsail with a Custom Domain + SSL
 
-[Video Tutorial (_10 min_)](https://www.youtube.com/watch?v=rtshCulV2hk)
-
 ---
 
 ### Steps below if you prefer images
